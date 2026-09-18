@@ -1,0 +1,6 @@
+[Details]
+ID = "ru.ingc.gtd"
+Build = 22
+
+[Migrations]
+fyneDo = true

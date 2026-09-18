@@ -1,0 +1,5 @@
+assets/natserv
+*.apk
+/fyne-cross
+/wasm
+icon512.png
